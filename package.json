@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-esercizi-sabi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SabinoRotondi/NodeJS-esercizi-Sabi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SabinoRotondi/NodeJS-esercizi-Sabi/issues"
+  },
+  "homepage": "https://github.com/SabinoRotondi/NodeJS-esercizi-Sabi#readme",
+  "dependencies": {
+    "figlet": "^1.5.2"
+  }
+}
