@@ -1,0 +1,1 @@
+module.exports = sum = () => console.log(19+25)
